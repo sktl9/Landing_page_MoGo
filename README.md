@@ -1,2 +1,2 @@
 # MoGo
-First ex ite
+First exp ite
