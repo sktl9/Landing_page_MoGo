@@ -1,2 +1,2 @@
 # MoGo
-First experш ite
+First experi ite
