@@ -1,2 +1,2 @@
 # MoGo
-First experience ite
+First experience ыite
