@@ -1,2 +1,2 @@
 # MoGo
-First experience WeSite
+First experience WebSite
