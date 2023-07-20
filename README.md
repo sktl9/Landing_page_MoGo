@@ -1,2 +1,2 @@
-# MoGo
+# MoGo S
 First experience WebSite
