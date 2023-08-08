@@ -1,2 +1,2 @@
 # MoGo Sit
-rst experience WebSite
+rst experience WebSit
