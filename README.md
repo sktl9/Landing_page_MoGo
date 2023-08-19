@@ -1,2 +1,2 @@
 # MoGo Sit
-rst experience WebS
+rst experience Web
